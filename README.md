@@ -8,8 +8,8 @@ An application built to consume public API provided by Food.gov.uk. It displays 
 
 Deployed for demonstration purposes on DigitalOcean through Cloudways. 
 
-![Shift Planner](http://phpstack-228259-800159.cloudwaysapps.com/screenshots/hr.png)
+![Hygiene Ratings](http://phpstack-228259-800159.cloudwaysapps.com/screenshots/hr.png)
 
-[More screenshots.](http://phpstack-228259-800159.cloudwaysapps.com/screenshots/sp.html)
+![Hygiene Ratings](http://phpstack-228259-800159.cloudwaysapps.com/screenshots/hr2.png)
 
 If you would like to see it live, please send me a message.
